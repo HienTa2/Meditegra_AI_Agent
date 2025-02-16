@@ -151,18 +151,4 @@ The AI-generated responses include the following structured pricing details:
 - **PM+EHR Combined** (for MD, DPM, etc.): $110–$660 per provider/month.
 - **Optional Services**: Priced per provider/practice for features like Denial Defender, EHR Premium Portal, text reminders, HL7 integration, and data migration.
 
-## Deployment & Usage
-1. Ensure the workflow is **activated**.
-2. Configure Gmail API to allow automated email access.
-3. Set up **Airtable API** credentials.
-4. Run a test workflow using **sample emails**.
-5. Review drafted responses before sending manually.
-
-## Future Improvements
-- Implement additional NLP features to enhance lead extraction.
-- Improve client detection using advanced sentiment analysis.
-- Automate email sending (beyond drafts) with user approval.
-
----
-This automation significantly **reduces response time**, improves **lead tracking**, and ensures **consistent email communication** with prospective clients.
 
