@@ -131,7 +131,7 @@ Make sure to only send email once and not resend again the same email.
 ---
 
 All our services come with an **all-inclusive monthly license fee** per provider, which includes maintenance, upgrades, implementation, training, and full support. We operate on a **12-month commitment** unless stated otherwise, ensuring you receive consistent and high-quality service.
-![image](https://github.com/user-attachments/assets/1a09af77-8675-41c8-94ae-3eb0e9820a47)
+
 
 ```
 
